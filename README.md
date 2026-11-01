@@ -79,7 +79,7 @@ Result: Never stop coding, minimal cost + 20-40% token savings via RTK
 
 ```bash
 # macOS / Linux
-curl -fsSL https://raw.githubusercontent.com/Xerctan/9router-go/refs/heads/main/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/Xerctan/9router-go/main/install.sh | bash
 ```
 
 ```powershell
